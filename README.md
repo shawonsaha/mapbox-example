@@ -1,4 +1,3 @@
-````markdown
 # Mapbox React Example
 
 This is an example project that demonstrates how to integrate Mapbox into a React application. It displays a map with a marker at a specified latitude and longitude.
@@ -20,7 +19,6 @@ To get started with this project, follow these steps:
 npx create-react-app mapbox-example
 cd mapbox-example
 ```
-````
 
 2. Install the required dependencies:
 
@@ -110,7 +108,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 - [Mapbox](https://www.mapbox.com/) for providing the mapping platform and API.
 - [Create React App](https://create-react-app.dev/) for bootstrapping the React project.
-
-```
-
-```
